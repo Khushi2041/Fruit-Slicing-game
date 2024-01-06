@@ -3,3 +3,5 @@ A fruit slicing game made using HTML, CSS and JQuery. Basically, when we click o
 
 <img width="677" alt="image" src="https://github.com/Khushi2041/Fruit-Slicing-game/assets/112477607/b45f5bf8-a4a9-4aa6-891e-67be399cfa03">
 
+The game is live at- https://khushi2041.github.io/Fruit-Slicing-game/
+
